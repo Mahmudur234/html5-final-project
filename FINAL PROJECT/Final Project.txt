@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+<meta charset = "UTF-8">
+<title>Final Project</title>
+</head>
+<body>
+<h1>MD.Mahmudur Rahman</h1>
+<nav>
+<a href="#">One</a>
+<a href="#">Two</a>
+<a href="#">Three</a>
+<a href="#">My Choice</a>
+</nav>
+<section>
+<h2>Favorite Foods</h2>
+<ol style="list-style-type:disk">
+<li>Burger
+<li>Kacchi
+<li>Pizza
+<li>Mango
+</ol>
+</section>
+<section>
+<h2>Achievements</h2>
+Progress in this course(100%)
+<progress value="100" max="100"></progress><br/>
+Progress in the Specialization capstone(20%)
+<progress value="20" max="100"></progress><br/>
+Progress in life goals(25%)
+<progress value="25" max="100"></progress><br/>
+</section>
+<section>
+<h2>More About Me</h2>
+<details open>
+<summary>My Childhood</summary
+<p>I am Mahmudur.I am studying in BRAC University.My aim is to be a software engineer.i would like to work in web developement and android developement.</p>
+</details>
+<section>
+<footer>
+<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Intro to web design logo">
+<p>This page was created by MD.Mahmudur Rahman & Colleen van Lent.To learn more about web design,visit
+<a href="http://intro-webdesign.com/">Intro to Web Design.</a></p>
+</footer>
+</body>
+</html>
